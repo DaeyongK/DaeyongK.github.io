@@ -9,6 +9,5 @@ My name is Daeyong Kwon, a high school student in Maryland who is passionate abo
 ```markdown
 I'm just going to keep this here because it looks nice
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Have a great day!
 
